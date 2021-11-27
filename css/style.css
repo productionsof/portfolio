@@ -13,12 +13,12 @@
     - typography -
     - Preloader -
 	- Header -
-    - box intro section -
-    - Portfoilo section -
+    - Box intro section -
+    - Portfolio section -
     - Footer -
     - About page -
     - Services page -
-    - contact page -
+    - Contact page -
     - Portfolio single page -
     - Responsive media queries -
 */
@@ -35,7 +35,7 @@
 html,
 body {
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.8;
     color: #999
 }
