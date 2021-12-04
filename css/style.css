@@ -1176,3 +1176,10 @@ textarea:focus {
         line-height: 30px;
     }
 }
+
+/*added custom styles*/
+
+.portfolio_image {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
