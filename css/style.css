@@ -1193,6 +1193,11 @@ textarea:focus {
 }
 
 .box-logo-icon {
-    
-    
+    color: #393939;
+    font-size: 24px;
+}
+
+.box-logo-icon:hover {
+    text-decoration:  none;
+
 }
