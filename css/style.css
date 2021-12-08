@@ -94,6 +94,10 @@ h3 {
     color: #393939;
 }
 
+h4 {
+    margin-top: 30px;
+}
+
 h5 {
     color: #ffbf00;
     margin-top:  30px;
@@ -1188,7 +1192,7 @@ textarea:focus {
 }
 
 .box-intro h3 {
-    line-height: 1.5;
+    line-height: 1.9;
 }
 
 .box-logo-icon {
