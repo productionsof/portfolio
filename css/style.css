@@ -87,7 +87,7 @@ a {
 h1 {
     color: #393939;
     font-size: 60px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 h3 {
@@ -905,7 +905,7 @@ footer img {
 
 .top-bar h1 {
     font-size: 60px;
-    font-weight: 700;
+    font-weight: 300;
     color: #999;
     line-height: 50px;
 }
